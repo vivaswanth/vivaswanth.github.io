@@ -44,6 +44,7 @@ menu:
 
 params:
   sectionPagesMenu: "/docs/"
+  mainSections: "docs"
   
   navbar:
     displayTitle: true
@@ -51,7 +52,7 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: true
