@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Vedanta
 
 # import hextra as module
 module:
@@ -43,9 +43,11 @@ menu:
         icon: x-twitter
 
 params:
+  sectionPagesMenu: "/docs/"
+  
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
 
   footer:
     displayCopyright: false
